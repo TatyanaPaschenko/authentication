@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.idea/
+
+# Django stuff:
+*.log
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+#sqlite3
+db.sqlite3
+
